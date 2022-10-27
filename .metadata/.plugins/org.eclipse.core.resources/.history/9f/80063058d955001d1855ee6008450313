@@ -1,0 +1,12 @@
+package com.nttdata.bootcamp;
+
+import io.reactivex.Observable;
+import io.reactivex.Observer;
+
+public class Main {
+	Observable<String> messageSender = Observable.just("Mensaje 1", "mensaje2", "mensaje3");
+	messageSender.subscriber(new Observer() {
+		
+		
+	}
+}
