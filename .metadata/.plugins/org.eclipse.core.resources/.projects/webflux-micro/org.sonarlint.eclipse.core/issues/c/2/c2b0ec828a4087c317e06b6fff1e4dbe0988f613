@@ -1,0 +1,16 @@
+
+
+java:S1488""\Immediately return this expression instead of assigning it to the temporary variable "flux".(¬ƒÏÙùÿÿÿÿHŞRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8 ê…ÌÁ0HáRMINORZ
+CODE_SMELL
+ˆ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flux".(šçóıHãRMINORZ
+CODE_SMELL
+ˆ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flux".(Óú°ıHæRMINORZ
+CODE_SMELL
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flux".(¡íÎŒşÿÿÿÿHéRMINORZ
+CODE_SMELL

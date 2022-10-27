@@ -4,7 +4,7 @@ public class Person {
 	
 	//Variables
 	private String firstname;
-	private String lastName;
+	private String lastname;
 	private Integer age;
 	
 	//Getters y Setters
@@ -15,10 +15,10 @@ public class Person {
 		this.firstname = firstname;
 	}
 	public String getLastName() {
-		return lastName;
+		return lastname;
 	}
 	public void setLastName(String lastName) {
-		this.lastName = lastName;
+		this.lastname = lastName;
 	}
 	public Integer getAge() {
 		return age;
@@ -28,11 +28,15 @@ public class Person {
 	}
 	
 	//Constructor
-	public Person(String firstname, String lastName, Integer age) {
+	public Person(String firstname, String lastname, Integer age) {
 		super();
 		this.firstname = firstname;
-		this.lastName = lastName;
+		this.lastname = lastname;
 		this.age = age;
+	}
+	
+	public Person() {
+		
 	}
 	
 	

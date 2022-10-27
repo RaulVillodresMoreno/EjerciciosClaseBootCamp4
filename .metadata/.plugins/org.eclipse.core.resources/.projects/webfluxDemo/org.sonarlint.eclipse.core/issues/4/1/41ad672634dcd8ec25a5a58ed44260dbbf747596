@@ -1,0 +1,11 @@
+
+”
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "flux".(Ë¸õ¹şÿÿÿÿ8¯Ô†ÉÁ0HµRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÂğÙúÿÿÿÿH²RMINORZ
+CODE_SMELL
+v
+java:S1612">Replace this lambda with method reference 'Subscriber::print'.(ë¸í¡úÿÿÿÿ8³ø­ÉÁ0H¾RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ºöıÿÿÿÿ8³ø­ÉÁ0HÀRMAJORZ
+CODE_SMELL
